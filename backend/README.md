@@ -1,4 +1,4 @@
-# Antônio Marcos Machado Bernardes Equipment Management App
+# Equipment Management App
 
 # Description:
 

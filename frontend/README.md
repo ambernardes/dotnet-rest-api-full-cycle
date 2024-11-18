@@ -1,4 +1,4 @@
-# Antônio Marcos Machado Bernardes Equipment Management App
+# Equipment Management App
 
 # Description:
 
@@ -58,12 +58,6 @@ The approach used to create this application consists of generating a template a
 In order to not spend time creating the screen, `Vuetify` components were used.
 
 The test cases were implemented using `vitest`.
-
-### Challenges:
-
-While using `vuetify` accelerated the development of the crud screen, the components were not written using the Composition API, so an adaptation was necessary.
-
-The same applies to test cases, using a proprietary component could have accelerated test development, as I had problems using vuetify in this scenario.
 
 # Endpoints
 
